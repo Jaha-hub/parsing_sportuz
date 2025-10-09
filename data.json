@@ -1,0 +1,114 @@
+[
+    {
+        "name": "\nФутбол\n\n\n",
+        "link": "http://sports.uz/ru/news/football",
+        "articles": [
+            "\nФутбол\n\n\n",
+            "http://sports.uz/ru/news/football"
+        ]
+    },
+    {
+        "name": "\nУзбекский спорт\n\n\n",
+        "link": "http://sports.uz/ru/news/uzbek_sports",
+        "articles": [
+            "\nУзбекский спорт\n\n\n",
+            "http://sports.uz/ru/news/uzbek_sports"
+        ]
+    },
+    {
+        "name": "\nБокс\n\n\n",
+        "link": "http://sports.uz/ru/news/boxs",
+        "articles": [
+            "\nБокс\n\n\n",
+            "http://sports.uz/ru/news/boxs"
+        ]
+    },
+    {
+        "name": "\nШахматы\n\n\n",
+        "link": "http://sports.uz/ru/news/chess",
+        "articles": [
+            "\nШахматы\n\n\n",
+            "http://sports.uz/ru/news/chess"
+        ]
+    },
+    {
+        "name": "Теннис",
+        "link": "http://sports.uz/ru/news/tennis",
+        "articles": [
+            "Теннис",
+            "http://sports.uz/ru/news/tennis"
+        ]
+    },
+    {
+        "name": "ЕДИНОБОРСТВА",
+        "link": "http://sports.uz/ru/news/solitary",
+        "articles": [
+            "ЕДИНОБОРСТВА",
+            "http://sports.uz/ru/news/solitary"
+        ]
+    },
+    {
+        "name": "ЛЕГКАЯ АТЛЕТИКА",
+        "link": "http://sports.uz/ru/news/athletics",
+        "articles": [
+            "ЛЕГКАЯ АТЛЕТИКА",
+            "http://sports.uz/ru/news/athletics"
+        ]
+    },
+    {
+        "name": "ТЯЖЕЛАЯ АТЛЕТИКА",
+        "link": "http://sports.uz/ru/news/weightlifting",
+        "articles": [
+            "ТЯЖЕЛАЯ АТЛЕТИКА",
+            "http://sports.uz/ru/news/weightlifting"
+        ]
+    },
+    {
+        "name": "ВОДНЫЕ ВИДЫ СПОРТА",
+        "link": "http://sports.uz/ru/news/water-sports",
+        "articles": [
+            "ВОДНЫЕ ВИДЫ СПОРТА",
+            "http://sports.uz/ru/news/water-sports"
+        ]
+    },
+    {
+        "name": "ЗИМНИЕ ВИДЫ СПОРТА",
+        "link": "http://sports.uz/ru/news/winter-sports",
+        "articles": [
+            "ЗИМНИЕ ВИДЫ СПОРТА",
+            "http://sports.uz/ru/news/winter-sports"
+        ]
+    },
+    {
+        "name": "Авто/Мото",
+        "link": "http://sports.uz/ru/news/automobile",
+        "articles": [
+            "Авто/Мото",
+            "http://sports.uz/ru/news/automobile"
+        ]
+    },
+    {
+        "name": "Олимпизм",
+        "link": "http://sports.uz/ru/news/olympism",
+        "articles": [
+            "Олимпизм",
+            "http://sports.uz/ru/news/olympism"
+        ]
+    },
+    {
+        "name": "Прочие",
+        "link": "http://sports.uz/ru/news/others",
+        "articles": [
+            "Прочие",
+            "http://sports.uz/ru/news/others"
+        ]
+    },
+    {
+        "name": "\nТРИБУНА\n\n\n",
+        "link": "http://sports.uz/ru/news/tribuna",
+        "articles": [
+            "\nТРИБУНА\n\n\n",
+            "http://sports.uz/ru/news/tribuna"
+        ]
+    }
+]
