@@ -1,114 +1,884 @@
 [
     {
-        "name": "\nФутбол\n\n\n",
-        "link": "http://sports.uz/ru/news/football",
+        "category": "Футбол",
+        "link": "https://sports.uz/ru/news/football",
         "articles": [
-            "\nФутбол\n\n\n",
-            "http://sports.uz/ru/news/football"
+            {
+                "title": "Сборная Узбекистана U-15 сыграет против Кореи",
+                "description": "Начало – 15:00.",
+                "img": "https://media.sports.uz/thumbnails/690ee818bb11e_220x160.jpg",
+                "link": "https://sports.uz/news/view/sbornaya-uzbekistana-u-15-sygraet-protiv-korei-08-11-2025"
+            },
+            {
+                "title": "Чемпионат мира U-17: Сборная Узбекистана сегодня сыграет с Ирландией",
+                "description": "Начало – 20:45.",
+                "img": "https://media.sports.uz/thumbnails/690ee763679db_220x160.jpg",
+                "link": "https://sports.uz/news/view/chempionat-mira-u-17-sbornaya-uzbekistana-segodnya-sygraet-s-irlandiey-08-11-2025"
+            },
+            {
+                "title": "Сегодня состоятся три матча 28-го тура Суперлиги",
+                "description": "Тур продолжается.",
+                "img": "https://media.sports.uz/thumbnails/690ee34f9f446_220x160.jpg",
+                "link": "https://sports.uz/news/view/segodnya-sostoyatsya-tri-matcha-28-go-tura-superligi-08-11-2025"
+            },
+            {
+                "title": "Превью. \"Коканд-1912\" - \"Пахтакор\"",
+                "description": "В 28-м туре Суперлиги \"Пахтакор\" на выезде сыграет против «Коканд-1912».",
+                "img": "https://media.sports.uz/thumbnails/690e372817be5_220x160.jpg",
+                "link": "https://sports.uz/news/view/prevyu-kokand-1912---paxtakor-07-11-2025"
+            },
+            {
+                "title": "Стартовый состав на матч \"Генчлербирлиги\" - \"Истанбул Башакшехир\"",
+                "description": "Начало - 22:00.",
+                "img": "https://media.sports.uz/thumbnails/690e1dc3627b4_220x160.jpg",
+                "link": "https://sports.uz/news/view/startovyy-sostav-na-match-genchlerbirligi---istanbul-bashakshexir-07-11-2025"
+            },
+            {
+                "title": "АГМК побеждает \"Навбахор\"",
+                "description": "Матч завершился.",
+                "img": "https://media.sports.uz/thumbnails/690e1c0c4c35f_220x160.jpg",
+                "link": "https://sports.uz/news/view/agmk-pobejdaet-navbaxor-07-11-2025"
+            },
+            {
+                "title": "«Бухара» отнимает очки у «Нефтчи»",
+                "description": "«Нефтчи» теряет важные очки.",
+                "img": "https://media.sports.uz/thumbnails/690e1ae700286_220x160.jpg",
+                "link": "https://sports.uz/news/view/buxara-otnimaet-ochki-u-neftchi-07-11-2025"
+            },
+            {
+                "title": "Дисквалификации 28-го тура",
+                "description": "Стартовал 28-й тур Суперлиги.",
+                "img": "https://media.sports.uz/thumbnails/690df54cdd6d0_220x160.jpg",
+                "link": "https://sports.uz/news/view/diskvalifikatsii-28-go-tura-07-11-2025"
+            },
+            {
+                "title": "Стартовые составы на матч АГМК - \"Навбахор\"",
+                "description": "Стартовал 28-й тур Суперлиги.",
+                "img": "https://media.sports.uz/thumbnails/690df015ca41f_220x160.jpg",
+                "link": "https://sports.uz/news/view/startovye-sostavy-na-match-agmk---navbaxor-07-11-2025"
+            },
+            {
+                "title": "Стартовые составы на матч \"Бухара\" - \"Нефтчи\"",
+                "description": "Начало -18:00.",
+                "img": "https://media.sports.uz/thumbnails/690defadc2a14_220x160.jpg",
+                "link": "https://sports.uz/news/view/startovye-sostavy-na-match-buxara---neftchi-07-11-2025"
+            }
         ]
     },
     {
-        "name": "\nУзбекский спорт\n\n\n",
-        "link": "http://sports.uz/ru/news/uzbek_sports",
+        "category": "Узбекский спорт",
+        "link": "https://sports.uz/ru/news/uzbek_sports",
         "articles": [
-            "\nУзбекский спорт\n\n\n",
-            "http://sports.uz/ru/news/uzbek_sports"
+            {
+                "title": "Шохрухбек Турсунмахамматов — победитель открытого чемпионата США!",
+                "description": "Заслуживает внимания тот факт, что наш представитель также одержал победу в командном кумите.",
+                "img": "https://media.sports.uz/thumbnails/688b2721a2437_220x160.jpg",
+                "link": "https://sports.uz/news/view/shoxruxbek-tursunmaxammatov-—-pobeditel-otkrytogo-chempionata-ssha-31-07-2025"
+            },
+            {
+                "title": "В Ташкенте в рамках праздника \"сабантой\" прошел турнир по татарской борьбе",
+                "description": "Познакомьтесь с участниками!",
+                "img": "https://media.sports.uz/thumbnails/68344239b631b_220x160.jpg",
+                "link": "https://sports.uz/news/view/v-tashkente-v-ramkax-prazdnika-sabantoy-proshel-turnir-po-tatarskoy-borbe-26-05-2025"
+            },
+            {
+                "title": "Определилась сильнейшая команда Ўзбекистана по уличному футболу",
+                "description": "Национальным чемпионом стала команда “POSITIVE TM”, которая в сентябре этого годапредставит страну на мировом финале в Австрии.",
+                "img": "https://media.sports.uz/thumbnails/680f2ece48eff_220x160.jpg",
+                "link": "https://sports.uz/news/view/opredelilas-silneyshaya-komanda-ozbekistana-po-ulichnomu-futbolu-28-04-2025"
+            }
         ]
     },
     {
-        "name": "\nБокс\n\n\n",
-        "link": "http://sports.uz/ru/news/boxs",
+        "category": "Бокс",
+        "link": "https://sports.uz/ru/news/boxs",
         "articles": [
-            "\nБокс\n\n\n",
-            "http://sports.uz/ru/news/boxs"
+            {
+                "title": "Боксёры отправились на Игры Исламской солидарности",
+                "description": "Состав известен.",
+                "img": "https://media.sports.uz/thumbnails/6908a5a676785_220x160.jpg",
+                "link": "https://sports.uz/news/view/boksyory-otpravilis-na-igry-islamskoy-solidarnosti-03-11-2025"
+            },
+            {
+                "title": "Наши боксеры отправились на Азиатские игры",
+                "description": "С 22 по 31 октября в Бахрейне проходят юношеские Азиатские игры.",
+                "img": "https://media.sports.uz/thumbnails/68f8714e2ac23_220x160.jpg",
+                "link": "https://sports.uz/news/view/nashi-boksery-otpravilis-na-aziatskie-igry-22-10-2025"
+            },
+            {
+                "title": "Наш боксер выступит в полуфинале Гран-при WBC",
+                "description": "Сегодня, 19 октября, в столице Саудовской Аравии Эр-Рияде пройдут полуфинальные поединки Гран-при WBC по боксу.",
+                "img": "https://media.sports.uz/thumbnails/68f4e42e9b138_220x160.jpg",
+                "link": "https://sports.uz/news/view/nash-bokser-vystupit-v-polufinale-gran-pri-wbc-19-10-2025"
+            },
+            {
+                "title": "Баходир Жалолов вновь одержал победу",
+                "description": "Наш соотечественник Баходир Жалолов вышел на ринг на турнире по профессиональному боксу «IBA.Pro 10», который прошел в Санкт-Петербурге.",
+                "img": "https://media.sports.uz/thumbnails/68e4fae26a5b6_220x160.jpg",
+                "link": "https://sports.uz/news/view/baxodir-jalolov-vnov-oderjal-pobedu-07-10-2025"
+            },
+            {
+                "title": "11 узбекских боксеров вышли в финал III Игр стран СНГ",
+                "description": "На III Играх стран СНГ, которые проходят в Азербайджане, делегация Узбекистана к настоящему времени завоевала 4 золотые, 13 серебряных и 24 бронзовые медали.",
+                "img": "https://media.sports.uz/thumbnails/68e15920c2331_220x160.jpg",
+                "link": "https://sports.uz/news/view/11-uzbekskix-bokserov-vyshli-v-final-iii-igr-stran-sng-04-10-2025"
+            },
+            {
+                "title": "Хасанбой Дусматов проведет бой с мексиканца",
+                "description": "Дусматов проведёт бой 25–26 октября в Бишкеке против мексиканца Рене Калисто.",
+                "img": "https://media.sports.uz/thumbnails/68e008d966cdf_220x160.jpg",
+                "link": "https://sports.uz/news/view/xasanboy-dusmatov-provedet-boy-s-meksikantsa-03-10-2025"
+            },
+            {
+                "title": "Игры СНГ: Сегодня выступят 6 боксеров Узбекистана",
+                "description": "Турнир проходит в Азербайджане.",
+                "img": "https://media.sports.uz/thumbnails/68dba9684dc8b_220x160.jpg",
+                "link": "https://sports.uz/news/view/igry-sng-segodnya-vystupyat-6-bokserov-uzbekistana-30-09-2025"
+            },
+            {
+                "title": "Состоялась пресс-конференция, посвящённая итогам чемпионата мира по боксу",
+                "description": "В Федерации бокса Узбекистана состоялась пресс-конференция, посвящённая итогам чемпионата мира в Ливерпуле.",
+                "img": "https://media.sports.uz/thumbnails/68d4d05ba3624_220x160.jpg",
+                "link": "https://sports.uz/news/view/sostoyalas-press-konferentsiya--posvyaщyonnaya-itogam-chempionata-mira-po-boksu-25-09-2025"
+            },
+            {
+                "title": "Баходир Жалолов в октябре поднимется на ринг",
+                "description": "Олимпийский чемпион по боксу Баходир Жалолов проведёт свой 16-й поединок на профессиональном ринге 6 октября этого года.",
+                "img": "https://media.sports.uz/thumbnails/68d292af6c721_220x160.jpg",
+                "link": "https://sports.uz/news/view/baxodir-jalolov-v-oktyabre-podnimetsya-na-ring--23-09-2025"
+            },
+            {
+                "title": "Герои чемпионатов мира были достойно награждены",
+                "description": "Вчера спортсменам, которые добились высоких результатов на чемпионатах мира по боксу, тяжёлой атлетике, гребле на байдарках и каноэ, а также их наставникам были торжественно вручены подарок Президента.",
+                "img": "https://media.sports.uz/thumbnails/68cced6e16bba_220x160.jpg",
+                "link": "https://sports.uz/news/view/geroi-chempionatov-mira-byli-dostoyno-nagrajdeny-19-09-2025"
+            }
         ]
     },
     {
-        "name": "\nШахматы\n\n\n",
-        "link": "http://sports.uz/ru/news/chess",
+        "category": "Шахматы",
+        "link": "https://sports.uz/ru/news/chess",
         "articles": [
-            "\nШахматы\n\n\n",
-            "http://sports.uz/ru/news/chess"
+            {
+                "title": "Наши шахматисты выступают на Кубке мира",
+                "description": "В Гоа стартовал Кубок мира по шахматам.",
+                "img": "https://media.sports.uz/thumbnails/690a318a0e0ed_220x160.jpg",
+                "link": "https://sports.uz/news/view/nashi-shaxmatisty-vystupayut-na-kubke-mira-04-11-2025"
+            },
+            {
+                "title": "Наши шахматисты вернулись с победой с чемпионата мира",
+                "description": "В международном аэропорту Ташкента имени Ислама Каримова состоялась торжественная встреча шахматистов, успешно выступивших на чемпионате мира.",
+                "img": "https://media.sports.uz/thumbnails/68de19dc5ad0f_220x160.jpg",
+                "link": "https://sports.uz/news/view/nashi-shaxmatisty-vernulis-s-pobedoy-s-chempionata-mira-02-10-2025"
+            },
+            {
+                "title": "ФИДЕ организовала семинар для арбитров в Самарканде",
+                "description": "По итогам мероприятия более 30 участникам, успешно прошедшим тестирование, были вручены специальные сертификаты.",
+                "img": "https://media.sports.uz/thumbnails/68cd78d255ff5_220x160.jpg",
+                "link": "https://sports.uz/news/view/fide-organizovala-seminar-dlya-arbitrov-v-samarkande-19-09-2025"
+            },
+            {
+                "title": "Лучшие шахматисты мира собрались в Самарканде",
+                "description": "С 3 по 16 сентября в Самарканде будет проходить престижное мероприятие под эгидой Международной шахматной федерации (FIDE) – международный турнир Grand Swiss 2025.",
+                "img": "https://media.sports.uz/thumbnails/68b92b2b4fc3d_220x160.jpg",
+                "link": "https://sports.uz/news/view/luchshie-shaxmatisty-mira-sobralis-v-samarkande-04-09-2025"
+            },
+            {
+                "title": "Нодирбек Якуббоев – победитель турнира 61st Rubinstein Memorial 2025",
+                "description": "В Польше завершился турнир по шахматам 61st Rubinstein Memorial 2025.",
+                "img": "https://media.sports.uz/thumbnails/68ac842a25c3a_220x160.jpg",
+                "link": "https://sports.uz/news/view/nodirbek-yakubboev-–-pobeditel-turnira-61st-rubinstein-memorial-2025-25-08-2025"
+            },
+            {
+                "title": "Успех Афрузы Хамдамовой",
+                "description": "Афруза Хамдамова, выступавшая в группе «Masters» на турнире «Dvorkovich Memorial-2025» в Актобе, набрала 51 рейтинговый балл.",
+                "img": "https://media.sports.uz/thumbnails/6863e7c75d72a_220x160.jpg",
+                "link": "https://sports.uz/news/view/uspex-afruzy-xamdamovoy-01-07-2025"
+            },
+            {
+                "title": "Шахматы: командный чемпионат мира в Лондоне",
+                "description": "Сегодня в Лондоне, Великобритания, состоятся матчи первого тура командного чемпионата мира по рапиду и блицу.",
+                "img": "https://media.sports.uz/thumbnails/6849450725fd1_220x160.jpg",
+                "link": "https://sports.uz/news/view/shaxmaty-komandnyy-chempionat-mira-v-londone-11-06-2025"
+            },
+            {
+                "title": "\"Dubai Open-2025.\" Какие места заняли наши соотечественники в итоговой таблице по результатам изменения рейтинговых баллов?",
+                "description": "Ознакомьтесь с финальной турнирной таблицей",
+                "img": "https://sports.uz/img/placeholder.png",
+                "link": "https://sports.uz/news/view/dubai-open-2025-kakie-mesta-zanyali-nashi-sootechestvenniki-v-itogovoy-tablitse-po-rezultatam-izmeneniya-reytingovyx-ballov-04-06-2025"
+            },
+            {
+                "title": "Шамсиддин Вохидов – призер чемпионата Азии",
+                "description": "Шамсиддин Вохидов завоевал бронзовую медаль и право на участие в Кубке мира.",
+                "img": "https://media.sports.uz/thumbnails/68278771a37ff_220x160.jpg",
+                "link": "https://sports.uz/news/view/shamsiddin-voxidov-–-prizer-chempionata-azii-16-05-2025"
+            },
+            {
+                "title": "Нодирбек Абдусатторов сыграл вничью с  гроссмейстером из США",
+                "description": "Завершились встречи четвертого тура проходящего в Бухаресте турнира «Superbet Chess Classic Romania-2025» с призовым фондом 350 тысяч долларов США.",
+                "img": "https://media.sports.uz/thumbnails/6821a2fb5e06f_220x160.jpg",
+                "link": "https://sports.uz/news/view/nodirbek-abdusattorov-sygral-vnichyu-s--grossmeysterom-iz-ssha-12-05-2025"
+            }
         ]
     },
     {
-        "name": "Теннис",
-        "link": "http://sports.uz/ru/news/tennis",
+        "category": "Теннис",
+        "link": "https://sports.uz/ru/news/tennis",
         "articles": [
-            "Теннис",
-            "http://sports.uz/ru/news/tennis"
+            {
+                "title": "Две новые звезды под флагом Узбекистана: Лайма Владсон и Александра Бармичева официально стали представительницами узбекского тенниса",
+                "description": "Сразу две талантливые спортсменки Лайма Владсон и Александра Бармичева получили гражданство Узбекистана и теперь будут представлять страну на международной арене под узбекским флагом.",
+                "img": "https://media.sports.uz/thumbnails/690cda89e0867_220x160.jpg",
+                "link": "https://sports.uz/news/view/dve-novye-zvezdy-pod-flagom-uzbekistana-layma-vladson-i-aleksandra-barmicheva-ofitsialno-stali-predstavitelnitsami-uzbekskogo-tennisa-06-11-2025"
+            },
+            {
+                "title": "Успех Сергея Фомина в Китае",
+                "description": "Сергей Фомин представляет нашу страну на турнире М25 в Китае.",
+                "img": "https://media.sports.uz/thumbnails/690623939a30c_220x160.jpg",
+                "link": "https://sports.uz/news/view/uspex-sergeya-fomina-v-kitae-01-11-2025"
+            },
+            {
+                "title": "Настольный теннис: стали известны обладатели Кубка Узбекистана",
+                "description": "Победителям и призерам были торжественно вручены медали, памятные подарки и Кубок страны.",
+                "img": "https://media.sports.uz/thumbnails/68f9282a1b63f_220x160.jpg",
+                "link": "https://sports.uz/news/view/nastolnyy-tennis-stali-izvestny-obladateli-kubka-uzbekistana-22-10-2025"
+            },
+            {
+                "title": "В Фергане завершился турнир ITF J100 HAYOT BANK CUP",
+                "description": "С 29 сентября по 5 октября в Фергане прошёл международный турнир ITF World Tennis Tour Juniors J100 Fergana HAYOT BANK CUP",
+                "img": "https://media.sports.uz/thumbnails/68e54e6ae2785_220x160.jpg",
+                "link": "https://sports.uz/news/view/v-fergane-zavershilsya-turnir-itf-j100-hayot-bank-cup-07-10-2025"
+            },
+            {
+                "title": "В Намангане определились победители турнира ATF 14&U",
+                "description": "С 23 по 26 сентября в Намангане прошел международный турнир ATF 14&U Andijan, где собрались сильнейшие юные теннисисты из стран Центральной Азии.",
+                "img": "https://media.sports.uz/thumbnails/68d818f30b519_220x160.jpg",
+                "link": "https://sports.uz/news/view/v-namangane-opredelilis-pobediteli-turnira-atf-14&u-27-09-2025"
+            },
+            {
+                "title": "Золотая серия узбекских юниоров на турнире в Душанбе",
+                "description": "В Душанбе узбекские теннисисты провели яркие две недели на международной арене.",
+                "img": "https://media.sports.uz/thumbnails/68d3e423aeb80_220x160.jpg",
+                "link": "https://sports.uz/news/view/zolotaya-seriya-uzbekskix-yuniorov-na-turnire-v-dushanbe-24-09-2025"
+            },
+            {
+                "title": "В Андижане завершился международный теннисный турнир",
+                "description": "В Андижане завершился международный турнир по теннису «ATF 14&Under» среди молодежи.",
+                "img": "https://media.sports.uz/thumbnails/68d2d66d884ec_220x160.jpg",
+                "link": "https://sports.uz/news/view/v-andijane-zavershilsya-mejdunarodnyy-tennisnyy-turnir-23-09-2025"
+            },
+            {
+                "title": "Узбекистанские теннисисты с успехом выступили на ITF J30 Dushanbe",
+                "description": "С 1 по 5 сентября в Душанбе прошёл международный турнир ITF World Tennis Tour Juniors J30 – President Cup 2025.",
+                "img": "https://media.sports.uz/thumbnails/68c56a30357e1_220x160.jpg",
+                "link": "https://sports.uz/news/view/uzbekistanskie-tennisisty-s-uspexom-vystupili-na-itf-j30-dushanbe-13-09-2025"
+            },
+            {
+                "title": "Узбекистанские теннисисты с успехом выступили на ITF J30 Dushanbe",
+                "description": "С 1 по 5 сентября в Душанбе прошёл международный турнир ITF World Tennis Tour Juniors J30 – President Cup 2025.",
+                "img": "https://media.sports.uz/thumbnails/68c3c8529a31e_220x160.jpg",
+                "link": "https://sports.uz/news/view/uzbekistanskie-tennisisty-s-uspexom-vystupili-na-itf-j30-dushanbe-12-09-2025"
+            },
+            {
+                "title": "Милана Масленкова успешно стартовала в Турции",
+                "description": "В Турции проходит турнир по теннису серии  W15.",
+                "img": "https://media.sports.uz/thumbnails/68c2b7ef7fe1d_220x160.jpg",
+                "link": "https://sports.uz/news/view/milana-maslenkova-uspeshno-startovala-v-turtsii-11-09-2025"
+            }
         ]
     },
     {
-        "name": "ЕДИНОБОРСТВА",
-        "link": "http://sports.uz/ru/news/solitary",
+        "category": "ЕДИНОБОРСТВА",
+        "link": "https://sports.uz/ru/news/solitary",
         "articles": [
-            "ЕДИНОБОРСТВА",
-            "http://sports.uz/ru/news/solitary"
+            {
+                "title": "Наш вольник Шерзод Поёнов завоевал титул чемпиона мира",
+                "description": "В эти дни в болгарском городе Самоков проходит чемпионат мира по спортивной борьбе среди юниоров (U20).",
+                "img": "https://media.sports.uz/thumbnails/68a56d05bbb63_220x160.jpg",
+                "link": "https://sports.uz/news/view/nash-volnik-sherzod-poyonov-zavoeval-titul-chempiona-mira-20-08-2025"
+            },
+            {
+                "title": "В Южной Корее стартовал чемпионат Азии по курашу",
+                "description": "В Южной Корее стартовал чемпионат Азии по нашему национальному виду спорта – курашу  среди взрослых, молодежи и юниоров.",
+                "img": "https://media.sports.uz/thumbnails/688f90f0df7c4_220x160.jpg",
+                "link": "https://sports.uz/news/view/v-yujnoy-koree-startoval-chempionat-azii-po-kurashu-03-08-2025"
+            },
+            {
+                "title": "Во второй день “Korea Open” узбекские таэквондисты завоевали 7 наград",
+                "description": "В городе Мужу (Республика Корея) завершился международный турнир “Korea Open” по таэквондо WT.",
+                "img": "https://media.sports.uz/thumbnails/687799ca1cb75_220x160.jpg",
+                "link": "https://sports.uz/news/view/vo-vtoroy-den-korea-open-uzbekskie-taekvondisty-zavoevali-7-nagrad-16-07-2025"
+            },
+            {
+                "title": "Самбисты Узбекистана завоевали медали на международном турнире",
+                "description": "На IX международных спортивных играх «Жемчужина Кыргызстана» наши самбисты завоевали две золотые, три серебряные и четыре бронзовые медали.",
+                "img": "https://media.sports.uz/thumbnails/68502b11b300b_220x160.jpg",
+                "link": "https://sports.uz/news/view/sambisty-uzbekistana-zavoevali-medali-na-mejdunarodnom-turnire-16-06-2025"
+            },
+            {
+                "title": "Махмуд Мурадов завоевал чемпионский пояс",
+                "description": "Наш соотечественник Махмуд Мурадов принял участие в поединке «co-main event» турнира ММА «Oktagon 72», прошедшего в Праге.",
+                "img": "https://media.sports.uz/thumbnails/684fbfbead5de_220x160.jpg",
+                "link": "https://sports.uz/news/view/maxmud-muradov-zavoeval-chempionskiy-poyas-16-06-2025"
+            },
+            {
+                "title": "Наши таэквондисты примут участие в турнире “Austrian Open”",
+                "description": "Завтра в австрийском городе Инсбрук состоится международный турнир по таэквондо WT категории G1.",
+                "img": "https://media.sports.uz/thumbnails/684db5578a300_220x160.jpg",
+                "link": "https://sports.uz/news/view/nashi-taekvondisty-primut-uchastie-v-turnire-austrian-open-14-06-2025"
+            },
+            {
+                "title": "Узбекские рукопашники триумфально выступили на международных соревнованиях",
+                "description": "С 29 мая по 3 июня в турецком городе Бурса прошёл чемпионат мира по рукопашному бою среди взрослых.",
+                "img": "https://media.sports.uz/thumbnails/6846f25b40dec_220x160.jpg",
+                "link": "https://sports.uz/news/view/uzbekskie-rukopashniki-triumfalno-vystupili-na-mejdunarodnyx-sorevnovaniyax-09-06-2025"
+            },
+            {
+                "title": "Узбекские мастера рукопашного боя выиграли чемпионат мира",
+                "description": "В чемпионате мира по рукопашному бою, который прошел в Бурсе, приняли участие более 300 спортсменов.",
+                "img": "https://media.sports.uz/thumbnails/683ec927326e3_220x160.jpg",
+                "link": "https://sports.uz/news/view/uzbekskie-mastera-rukopashnogo-boya-vyigrali-chempionat-mira-03-06-2025"
+            },
+            {
+                "title": "Лучшие борцы страны состязаются в Ташкенте",
+                "description": "В столичном спортивном комплексе «Универсал» продолжается Кубок Узбекистана по спортивной борьбе.",
+                "img": "https://media.sports.uz/thumbnails/68189302e23fa_220x160.jpg",
+                "link": "https://sports.uz/news/view/luchshie-bortsy-strany-sostyazayutsya-v-tashkente-05-05-2025"
+            },
+            {
+                "title": "Определились победители Кубка Узбекистана",
+                "description": "В Нукусе прошли соревнования на Кубок Узбекистана по курашу среди молодежи 2008-2009 годов рождения.",
+                "img": "https://media.sports.uz/thumbnails/680ca1bf1be9f_220x160.jpg",
+                "link": "https://sports.uz/news/view/opredelilis-pobediteli-kubka-uzbekistana-26-04-2025"
+            }
         ]
     },
     {
-        "name": "ЛЕГКАЯ АТЛЕТИКА",
-        "link": "http://sports.uz/ru/news/athletics",
+        "category": "ЛЕГКАЯ АТЛЕТИКА",
+        "link": "https://sports.uz/ru/news/athletics",
         "articles": [
-            "ЛЕГКАЯ АТЛЕТИКА",
-            "http://sports.uz/ru/news/athletics"
+            {
+                "title": "Бахрейн-2025: Насима Мамирова принесла нашей делегации ещё одну серебряную медаль",
+                "description": "В сегодняшних соревнованиях III Азиатских юношеских игр в копилку нашей делегации добавилась очередная награда.",
+                "img": "https://media.sports.uz/thumbnails/68fbb63dae873_220x160.jpg",
+                "link": "https://sports.uz/news/view/baxreyn-2025-nasima-mamirova-prinesla-nashey-delegatsii-eщyo-odnu-serebryanuyu-medal-24-10-2025"
+            },
+            {
+                "title": "Бахрейн-2025: Завоеваны 4 медали в соревнованиях по лёгкой атлетике",
+                "description": "Делегация Узбекистана завоевала очередные медали на III Азиатских юношеских играх.",
+                "img": "https://media.sports.uz/thumbnails/68fb02a2b6de6_220x160.jpg",
+                "link": "https://sports.uz/news/view/baxreyn-2025-zavoevany-4-medali-v-sorevnovaniyax-po-lyogkoy-atletike-24-10-2025"
+            },
+            {
+                "title": "Наши легкоатлеты отправились в Бахрейн",
+                "description": "Представители нашей сборной на III юношеских Азиатских играх в соревнованиях по легкой атлетике выступят в 12 дисциплинах.",
+                "img": "https://media.sports.uz/thumbnails/68f66896aafe2_220x160.jpg",
+                "link": "https://sports.uz/news/view/nashi-legkoatlety-otpravilis-v-baxreyn-20-10-2025"
+            },
+            {
+                "title": "Избран новый Генеральный секретарь Федерации лёгкой атлетики",
+                "description": "Состоялась внеочередная отчётно-выборная конференция Федерации лёгкой атлетики Узбекистана.",
+                "img": "https://media.sports.uz/thumbnails/68d6ae6478c5e_220x160.jpg",
+                "link": "https://sports.uz/news/view/izbran-novyy-generalnyy-sekretar-federatsii-lyogkoy-atletiki-26-09-2025"
+            },
+            {
+                "title": "Ташкент принимает международный турнир по легкой атлетике",
+                "description": "В столице проходит открытый чемпионат Узбекистана по легкой атлетике среди взрослых.",
+                "img": "https://media.sports.uz/thumbnails/68cd788119aeb_220x160.jpg",
+                "link": "https://sports.uz/news/view/tashkent-prinimaet-mejdunarodnyy-turnir-po-legkoy-atletike-19-09-2025"
+            },
+            {
+                "title": "Шарифа Давронова выступит в квалификационном этапе мирового первенства",
+                "description": "Представительница сборной Узбекистана по лёгкой атлетике Шарифа Давронова сегодня начнёт своё участие на чемпионате мира в Токио.",
+                "img": "https://media.sports.uz/thumbnails/68c953ca22f25_220x160.jpg",
+                "link": "https://sports.uz/news/view/sharifa-davronova-vystupit-v-kvalifikatsionnom-etape-mirovogo-pervenstva--16-09-2025"
+            },
+            {
+                "title": "Известны имена узбекских легкоатлетов, которые завоевали путёвки на чемпионат мира",
+                "description": "Завершился квалификационный период чемпионата мира, который пройдёт с 13 по 21 сентября в Токио (Япония).",
+                "img": "https://media.sports.uz/thumbnails/68b0804484920_220x160.jpg",
+                "link": "https://sports.uz/news/view/izvestny-imena-uzbekskix-legkoatletov--kotorye-zavoevali-putyovki-na-chempionat-mira-28-08-2025"
+            },
+            {
+                "title": "2 наших легкоатлетов стали призёрами чемпионата Азии",
+                "description": "В городе Мокпо Южной Кореи проходит чемпионат Азии по метательным видам лёгкой атлетики.",
+                "img": "https://media.sports.uz/thumbnails/68a7485df1285_220x160.jpg",
+                "link": "https://sports.uz/news/view/2-nashix-legkoatletov-stali-prizyorami-chempionata-azii-21-08-2025"
+            },
+            {
+                "title": "Анвар Анваров победил на турнире Бриллиантовой лиги",
+                "description": "В швейцарском городе Лозанна состоялся очередной этап одного из самых престижных турниров по лёгкой атлетике — Бриллиантовой лиги.",
+                "img": "https://media.sports.uz/thumbnails/68a6e30ab9b6a_220x160.jpg",
+                "link": "https://sports.uz/news/view/anvar-anvarov-pobedil-na-turnire-brilliantovoy-ligi-21-08-2025"
+            },
+            {
+                "title": "Легкоатлеты Узбекистана выступили на международном турнире Silk Road to Tokyo",
+                "description": "В столице  прошел международный турнир по легкой атлетике Silk Road to Tokyo.",
+                "img": "https://media.sports.uz/thumbnails/68a4b79af2e2c_220x160.jpg",
+                "link": "https://sports.uz/news/view/legkoatlety-uzbekistana-vystupili-na-mejdunarodnom-turnire-silk-road-to-tokyo-19-08-2025"
+            }
         ]
     },
     {
-        "name": "ТЯЖЕЛАЯ АТЛЕТИКА",
-        "link": "http://sports.uz/ru/news/weightlifting",
+        "category": "ТЯЖЕЛАЯ АТЛЕТИКА",
+        "link": "https://sports.uz/ru/news/weightlifting",
         "articles": [
-            "ТЯЖЕЛАЯ АТЛЕТИКА",
-            "http://sports.uz/ru/news/weightlifting"
+            {
+                "title": "Чемпиону мира Акбару Жураеву вручен подарок Президента",
+                "description": "В мероприятии приняли участие руководители Министерства спорта, НОК и Федерации тяжёлой атлетики страны.",
+                "img": "https://media.sports.uz/thumbnails/68fefce4e35cb_220x160.jpg",
+                "link": "https://sports.uz/news/view/chempionu-mira-akbaru-juraevu-vruchen-podarok-prezidenta-27-10-2025"
+            },
+            {
+                "title": "Акбар Жураев — трёхкратный чемпион мира!",
+                "description": "Наш тяжелоатлет завоевал титул абсолютного чемпиона мира.",
+                "img": "https://media.sports.uz/thumbnails/68ea23b53d4d3_220x160.jpg",
+                "link": "https://sports.uz/news/view/akbar-juraev-—-tryoxkratnyy-chempion-mira-11-10-2025"
+            },
+            {
+                "title": "Нурудинов и Жураев выступят на чемпионате мира",
+                "description": "2-11 октября в норвежском городе Фьорде состоится чемпионат мира по тяжёлой атлетике.",
+                "img": "https://media.sports.uz/thumbnails/68db6ebb28ae3_220x160.jpg",
+                "link": "https://sports.uz/news/view/nurudinov-i-juraev-vystupyat-na-chempionate-mira--30-09-2025"
+            },
+            {
+                "title": "Бахрейн-2025: Тяжелоатлеты готовятся к III Азиатским юношеским играм",
+                "description": "В следующем месяце в Бахрейне состоятся III Азиатские юношеские игры, к которым узбекская делегация ведёт серьёзную подготовку.",
+                "img": "https://media.sports.uz/thumbnails/68cd844ddfce6_220x160.jpg",
+                "link": "https://sports.uz/news/view/baxreyn-2025-tyajeloatlety-gotovyatsya-k-iii-aziatskim-yunosheskim-igram-19-09-2025"
+            },
+            {
+                "title": "Наши тяжелоатлеты отправились в Турцию на учебно-тренировочные сборы",
+                "description": "Представители сборной Узбекистана по тяжёлой атлетике отправились в Турцию на учебно-тренировочные сборы.",
+                "img": "https://media.sports.uz/thumbnails/6878ed76c4699_220x160.jpg",
+                "link": "https://sports.uz/news/view/nashi-tyajeloatlety-otpravilis-v-turtsiyu-na-uchebno-trenirovochnye-sbory-17-07-2025"
+            },
+            {
+                "title": "Юношеская и молодёжная сборные Узбекистана по тяжёлой атлетике заняли первое место по очкам и количеству медалей на ЧА",
+                "description": "В Астане (Казахстан) завершился чемпионат Азии по тяжёлой атлетике среди юниоров и молодёжи.",
+                "img": "https://media.sports.uz/thumbnails/68710bc9b0641_220x160.jpg",
+                "link": "https://sports.uz/news/view/yunosheskaya-i-molodyojnaya-sbornye-uzbekistana-po-tyajyoloy-atletike-zanyali-pervoe-mesto-po-ochkam-i-kolichestvu-medaley-na-cha-11-07-2025"
+            },
+            {
+                "title": "Молодые тяжелоатлеты завоевали ещё 16 наград на чемпионате Азии",
+                "description": "В Астане (Казахстан) завершается континентальное первенство по тяжёлой атлетике среди юниоров и молодёжи.",
+                "img": "https://sports.uz/img/placeholder.png",
+                "link": "https://sports.uz/news/view/molodye-tyajeloatlety-zavoevali-eщyo-16-nagrad-na-chempionate-azii-10-07-2025"
+            },
+            {
+                "title": "В очередной день чемпионата Азии завоеваны 20 медалей",
+                "description": "В Казахстане продолжается континентальное первенство по тяжёлой атлетике среди  юниоров и молодёжи.",
+                "img": "https://media.sports.uz/thumbnails/686e2e1161fe0_220x160.jpg",
+                "link": "https://sports.uz/news/view/v-ocherednoy-den-chempionata-azii-zavoevany-20-medaley-09-07-2025"
+            },
+            {
+                "title": "В очередной день чемпионата Азии по тяжёлой атлетике сборная Узбекистана завоевала 9 медалей",
+                "description": "В Астане (Казахстан) продолжается чемпионат Азии по тяжёлой атлетике среди юниоров и молодёжи.",
+                "img": "https://media.sports.uz/thumbnails/686ce79f48d6f_220x160.jpg",
+                "link": "https://sports.uz/news/view/v-ocherednoy-den-chempionata-azii-po-tyajyoloy-atletike-sbornaya-uzbekistana-zavoevala-9-medaley-08-07-2025"
+            },
+            {
+                "title": "Отечественные тяжелоатлеты большим составом выступят на чемпионате Азии",
+                "description": "Сегодня в городе Астана Казахстана стартовал чемпионат Азии по тяжёлой атлетике среди юниоров и молодёжи.",
+                "img": "https://media.sports.uz/thumbnails/6868179080438_220x160.jpg",
+                "link": "https://sports.uz/news/view/otechestvennye-tyajeloatlety-bolshim-sostavom-vystupyat-na-chempionate-azii-04-07-2025"
+            }
         ]
     },
     {
-        "name": "ВОДНЫЕ ВИДЫ СПОРТА",
-        "link": "http://sports.uz/ru/news/water-sports",
+        "category": "ВОДНЫЕ ВИДЫ СПОРТА",
+        "link": "https://sports.uz/ru/news/water-sports",
         "articles": [
-            "ВОДНЫЕ ВИДЫ СПОРТА",
-            "http://sports.uz/ru/news/water-sports"
+            {
+                "title": "Завершился чемпионат Азии по водным видам спорта.",
+                "description": "По итогам чемпионата мужская и женская сборные команды Узбекистана квалифицировались на XX летние Азиатские игры",
+                "img": "https://media.sports.uz/thumbnails/68ebe6fd44624_220x160.jpg",
+                "link": "https://sports.uz/news/view/zavershilsya-chempionat-azii-po-vodnym-vidam-sporta-12-10-2025"
+            },
+            {
+                "title": "Сборные Узбекистана продолжают выступления на чемпионате Азии по водным видам спорта",
+                "description": "На седьмой день соревнований по водному поло женская сборная Узбекистана уверенно обыграла команду Гонконга.",
+                "img": "https://media.sports.uz/thumbnails/68e951c43788c_220x160.jpg",
+                "link": "https://sports.uz/news/view/sbornye-uzbekistana-prodoljayut-vystupleniya-na-chempionate-azii-po-vodnym-vidam-sporta-10-10-2025"
+            },
+            {
+                "title": "Синхронистки Узбекистана завоевали 8 медалей на чемпионате Азии",
+                "description": "В городе Ахмедабад Индии продолжается чемпионат Азии по водным видам спорта.",
+                "img": "https://media.sports.uz/thumbnails/68e64df974130_220x160.jpg",
+                "link": "https://sports.uz/news/view/sinxronistki-uzbekistana-zavoevali-8-medaley-na-chempionate-azii-08-10-2025"
+            },
+            {
+                "title": "Еще одна медаль от Сабины Махмудовой!",
+                "description": "В Ахмедабаде (Индия) завершился третий день соревнований по синхронному плаванию в рамках чемпионата Азии по водным видам спорта.",
+                "img": "https://media.sports.uz/thumbnails/68e4fb532fcb7_220x160.jpg",
+                "link": "https://sports.uz/news/view/eщe-odna-medal-ot-sabiny-maxmudovoy-07-10-2025"
+            },
+            {
+                "title": "Сборная Узбекистана по синхронному плаванию пополнила копилку делегации 3 медалями!",
+                "description": "В Ахмедабаде (Индия) завершился второй день соревнований по синхронному плаванию в рамках чемпионата Азии по водным видам спорта.",
+                "img": "https://media.sports.uz/thumbnails/68e35210084a1_220x160.jpg",
+                "link": "https://sports.uz/news/view/sbornaya-uzbekistana-po-sinxronnomu-plavaniyu-popolnila-kopilku-delegatsii-3-medalyami-06-10-2025"
+            },
+            {
+                "title": "Вячеслав Качанов завоевал вторую бронзовую медаль на чемпионате Азии",
+                "description": "Представитель сборной Узбекистана по прыжкам в воду Вячеслав Качанов завоевал вторую бронзовую награду.",
+                "img": "https://media.sports.uz/thumbnails/68dcd29783eb0_220x160.jpg",
+                "link": "https://sports.uz/news/view/vyacheslav-kachanov-zavoeval-vtoruyu-bronzovuyu-medal-na-chempionate-azii-01-10-2025"
+            },
+            {
+                "title": "Завоеваны серебро и бронза на чемпионате Азии по водным видам спорта",
+                "description": "В эти дни в городе Ахмадабад Индии проходит чемпионат Азии по водным видам спорта.",
+                "img": "https://media.sports.uz/thumbnails/68db7ca74ed98_220x160.jpg",
+                "link": "https://sports.uz/news/view/zavoevany-serebro-i-bronza-na-chempionate-azii-po-vodnym-vidam-sporta-30-09-2025"
+            },
+            {
+                "title": "Молодёжная сборная Узбекистана по плаванию выступит на III Играх стран СНГ",
+                "description": "С 28 сентября по 2 октября в Гяндже (Азербайджан) пройдут соревнования по плаванию в рамках III Игр стран Содружества Независимых Государств.",
+                "img": "https://media.sports.uz/thumbnails/68d234e91a548_220x160.jpg",
+                "link": "https://sports.uz/news/view/molodyojnaya-sbornaya-uzbekistana-po-plavaniyu-vystupit-na-iii-igrax-stran-sng-23-09-2025"
+            },
+            {
+                "title": "Стартовал чемпионат Центральной Азии по водному поло",
+                "description": "Сегодня в Ташкенте и Наманганской области стартовал чемпионат Центральной Азии по водному поло.",
+                "img": "https://media.sports.uz/thumbnails/68c5bda99bf02_220x160.jpg",
+                "link": "https://sports.uz/news/view/startoval-chempionat-tsentralnoy-azii-po-vodnomu-polo-13-09-2025"
+            },
+            {
+                "title": "Дарья Кочнева впервые в истории синхронного плавания Узбекистана вышла в финал ЧМ",
+                "description": "Дарья Кочнева впервые в истории синхронного плавания Узбекистана вышла в финал дисциплины «произвольное соло» на молодежном чемпионате мира в Греции.",
+                "img": "https://media.sports.uz/thumbnails/68b18acb8e81d_220x160.jpg",
+                "link": "https://sports.uz/news/view/darya-kochneva-vpervye-v-istorii-sinxronnogo-plavaniya-uzbekistana-vyshla-v-final-chm---29-08-2025"
+            }
         ]
     },
     {
-        "name": "ЗИМНИЕ ВИДЫ СПОРТА",
-        "link": "http://sports.uz/ru/news/winter-sports",
+        "category": "ЗИМНИЕ ВИДЫ СПОРТА",
+        "link": "https://sports.uz/ru/news/winter-sports",
         "articles": [
-            "ЗИМНИЕ ВИДЫ СПОРТА",
-            "http://sports.uz/ru/news/winter-sports"
+            {
+                "title": "Наши шорт-трекисты участвуют в первом этапе Кубка мира",
+                "description": "В эти дни в Монреале (Канада) проходит первый этап Кубка мира по шорт-треку.",
+                "img": "https://media.sports.uz/thumbnails/68e91b6d438c3_220x160.jpg",
+                "link": "https://sports.uz/news/view/nashi-short-trekisty-uchastvuyut-v-pervom-etape-kubka-mira-10-10-2025"
+            },
+            {
+                "title": "Судья из Узбекистана будет работать на зимних Олимпийских играх Милан–Кортина 2026",
+                "description": "Отметим, что С. Нуманова уже имела опыт работы на зимних Олимпийских играх в Пхёнчхане в 2018 году.",
+                "img": "https://media.sports.uz/thumbnails/68dfcddd27f9e_220x160.jpg",
+                "link": "https://sports.uz/news/view/sudya-iz-uzbekistana-budet-rabotat-na-zimnix-olimpiyskix-igrax-milan–kortina-2026-03-10-2025"
+            },
+            {
+                "title": "Чигирёв и Гейниш победили в номинации \"Лучший новичок\"",
+                "description": "Международный союз конькобежцев (ISU) подвёл итоги текущего сезона и объявил лучших.",
+                "img": "https://media.sports.uz/thumbnails/67ea96a40b079_220x160.jpg",
+                "link": "https://sports.uz/news/view/chigiryov-i-geynish-pobedili-v-nominatsii-luchshiy-novichok--31-03-2025"
+            },
+            {
+                "title": "Даниил Ейбог вошёл в ТОП-10 сильнейших на чемпионате мира",
+                "description": "В Пекине (Китай) состоялся чемпионат мира по шорт-треку.",
+                "img": "https://media.sports.uz/thumbnails/67d7057bade39_220x160.jpg",
+                "link": "https://sports.uz/news/view/daniil-eybog-voshyol-v-top-10-silneyshix-na-chempionate-mira-16-03-2025"
+            },
+            {
+                "title": "Отечественные горнолыжники завоевали 6 наград на чемпионате Азии",
+                "description": "В городе Янцин Китая состоялся чемпионат Азии по горнолыжному спорту.",
+                "img": "https://media.sports.uz/thumbnails/67c1ea9d46d93_220x160.jpg",
+                "link": "https://sports.uz/news/view/otechestvennye-gornolyjniki-zavoevali-6-nagrad-na-chempionate-azii--28-02-2025"
+            },
+            {
+                "title": "Харбин-2025: Фигуристки завершили своё участие",
+                "description": "Делегация Узбекистана завершила участие на зимних Азиатских играх Харбин-2025.",
+                "img": "https://media.sports.uz/thumbnails/67ae083fcf96e_220x160.jpg",
+                "link": "https://sports.uz/news/view/xarbin-2025-figuristki-zavershili-svoyo-uchastie-13-02-2025"
+            },
+            {
+                "title": "Харбин-2025: Чигирев и Гейниш - чемпионы зимних Азиатских игр!",
+                "description": "Делегация Узбекистана завоевала золотую медаль зимних Азиатских игр после 26-летнего перерыва.",
+                "img": "https://media.sports.uz/thumbnails/67aca6b06ad00_220x160.jpg",
+                "link": "https://sports.uz/news/view/xarbin-2025-chigirev-i-geynish---chempiony-zimnix-aziatskix-igr-12-02-2025"
+            },
+            {
+                "title": "Харбин-2025: узбекские биатлонисты завершили своё выступление",
+                "description": "Наши биатлонисты Дилмурод Абдурахмонов и Ролан Раимкулов завершили своё участие в Азиатских играх.",
+                "img": "https://media.sports.uz/thumbnails/67ab95c14db7c_220x160.jpg",
+                "link": "https://sports.uz/news/view/xarbin-2025-uzbekskie-biatlonisty-zavershili-svoyo-vystuplenie--11-02-2025"
+            },
+            {
+                "title": "Харбин-2025: Чигирев и Гейниш лидируют после короткой программы",
+                "description": "Представители сборной Узбекистана по фигурному катанию Екатерина Гейниш и Дмитрий Чигирев завершили своё участие в короткой программе.",
+                "img": "https://media.sports.uz/thumbnails/67ab940e6c0c5_220x160.jpg",
+                "link": "https://sports.uz/news/view/xarbin-2025-chigirev-i-geynish-lidiruyut-posle-korotkoy-programmy-11-02-2025"
+            },
+            {
+                "title": "«Харбин-2025»: Китай лидирует",
+                "description": "Сегодня в очередной день IX зимних Азиатских игр пройдут соревнования по 8 видам спорта, в 6 из которых будет разыграно 11 комплектов  медалей.",
+                "img": "https://media.sports.uz/thumbnails/67a99d3d6d556_220x160.jpg",
+                "link": "https://sports.uz/news/view/xarbin-2025-kitay-lidiruet-10-02-2025"
+            }
         ]
     },
     {
-        "name": "Авто/Мото",
-        "link": "http://sports.uz/ru/news/automobile",
+        "category": "Авто/Мото",
+        "link": "https://sports.uz/ru/news/automobile",
         "articles": [
-            "Авто/Мото",
-            "http://sports.uz/ru/news/automobile"
+            {
+                "title": "Дрифтеры Узбекистана - чемпионы!",
+                "description": "NAFKU Racing Team – Чемпионы в командном зачёте",
+                "img": "https://media.sports.uz/thumbnails/68fe0133d54e0_220x160.jpg",
+                "link": "https://sports.uz/news/view/driftery-uzbekistana---chempiony-26-10-2025"
+            },
+            {
+                "title": "Сборная Узбекистана по автоспорту завоевала медали на престижном соревновании",
+                "description": "Поздравляем нашу сборную с заслуженными наградами",
+                "img": "https://media.sports.uz/thumbnails/68dd5d13f2408_220x160.jpg",
+                "link": "https://sports.uz/news/view/sbornaya-uzbekistana-po-avtosportu-zavoevala-medali-na-prestijnom-sorevnovanii-01-10-2025"
+            },
+            {
+                "title": "Узбекистан на подиуме первого этапа чемпионата Азии по джимхане 2025",
+                "description": "Финал пройдёт в Узбекистане!",
+                "img": "https://media.sports.uz/thumbnails/683eb52f9b28b_220x160.jpg",
+                "link": "https://sports.uz/news/view/uzbekistan-na-podiume-pervogo-etapa-chempionata-azii-po-djimxane-2025-03-06-2025"
+            },
+            {
+                "title": "Узбекские дрифтеры заняли призовые места на соревнованиях, прошедших в Кыргызстане",
+                "description": "Чемпионат в Бишкеке стал отличной площадкой для обмена опытом между пилотами из разных стран",
+                "img": "https://media.sports.uz/thumbnails/68349b1bdbcb9_220x160.jpg",
+                "link": "https://sports.uz/news/view/uzbekskie-driftery-zanyali-prizovye-mesta-na-sorevnovaniyax--proshedshix-v-kyrgyzstane-26-05-2025"
+            },
+            {
+                "title": "Чемпионат мира MotoGP подтвердил перенос Гран-при Таиланда на осень",
+                "description": "Гонки пройдут только в классах Moto2 и Moto3",
+                "img": "https://media.sports.uz/thumbnails/26-11-2019itogiosennihtestovmotogpyamahaisuzukipodnimajutgolovumarquezsnovatravmirovan_220x160.jpg",
+                "link": "https://sports.uz/news/view/chempionat-mira-motogp-podtverdil-perenos-gran-pri-tailanda-na-osen-06-03-2020"
+            },
+            {
+                "title": "Чемпионат мира MotoGP подтвердил перенос Гран-при Таиланда на осень",
+                "description": "Гонки пройдут только в классах Moto2 и Moto3",
+                "img": "https://media.sports.uz/thumbnails/26-11-2019itogiosennihtestovmotogpyamahaisuzukipodnimajutgolovumarquezsnovatravmirovan_220x160.jpg",
+                "link": "https://sports.uz/news/view/chempionat-mira-motogp-podtverdil-perenos-gran-pri-tailanda-na-osen-06-03-2020"
+            },
+            {
+                "title": "«Мерседес» представил ливрею на 2020 год",
+                "description": "Презентация машины на сезон-2020 состоится 14 февраля.",
+                "img": "https://media.sports.uz/thumbnails/eqaznsuxuaadvek_220x160.jpg",
+                "link": "https://sports.uz/news/view/mersedes-predstavil-livreyu-na-2020-god-11-02-2020"
+            },
+            {
+                "title": "Индикар. Чемпион сезона-2004 Канаан уйдет из серии после 2020 года",
+                "description": "В конце декабря пилоту исполнилось 45 лет.",
+                "img": "https://media.sports.uz/thumbnails/03-02-kanaan-on-course-cotaopentest_220x160.jpg",
+                "link": "https://sports.uz/news/view/indikar-chempion-sezona-2004-kanaan-uydet-iz-serii-posle-2020-goda-31-01-2020"
+            },
+            {
+                "title": "В Намангане пройдет Кубок Узбекистана по картингу",
+                "description": "В Наманганской области с 10 по 12 августа состоится Кубок страны по картингу",
+                "img": "https://sports.uz/img/placeholder.png",
+                "link": "https://sports.uz/news/view/V-Namangane-proydet-Kubok-Uzbekistana-po-kartingu-08-08-2018"
+            },
+            {
+                "title": "Масштабное ралли в Узбекистане",
+                "description": "",
+                "img": "https://sports.uz/img/placeholder.png",
+                "link": "https://sports.uz/news/view/Masshtabnoe-ralli-v-Uzbekistane"
+            }
         ]
     },
     {
-        "name": "Олимпизм",
-        "link": "http://sports.uz/ru/news/olympism",
+        "category": "Олимпизм",
+        "link": "https://sports.uz/ru/news/olympism",
         "articles": [
-            "Олимпизм",
-            "http://sports.uz/ru/news/olympism"
+            {
+                "title": "Комилжон Тухтаев принял участие в Континентальном форуме атлетов",
+                "description": "2–3 сентября в Астане (Казахстан) Олимпийский совет Азии (ОСА) совместно с проектом «Олимпийская солидарность» организовал VI Континентальный форум атлетов.",
+                "img": "https://media.sports.uz/thumbnails/68b96f5b6b7a9_220x160.jpg",
+                "link": "https://sports.uz/news/view/komiljon-tuxtaev-prinyal-uchastie-v-kontinentalnom-forume-atletov-04-09-2025"
+            },
+            {
+                "title": "Обсуждены вопросы эффективного использования возможностей Олимпийского городка",
+                "description": "Сегодня же состоялось совещание, посвящённое исполнению поручений Главы государства, которые были обозначены в ходе этого визита.",
+                "img": "https://media.sports.uz/thumbnails/68a49ef565687_220x160.jpg",
+                "link": "https://sports.uz/news/view/obsujdeny-voprosy-effektivnogo-ispolzovaniya-vozmojnostey-olimpiyskogo-gorodka--19-08-2025"
+            },
+            {
+                "title": "Состоялась встреча с Президентом МОК Кирсти Ковентри",
+                "description": "В рамках чемпионата мира по водным видам спорта в Сингапуре представители делегации Узбекистана провели встречу с Президентом Международного Олимпийского комитета Кирсти Ковентри",
+                "img": "https://media.sports.uz/thumbnails/6888fee885f46_220x160.jpg",
+                "link": "https://sports.uz/news/view/sostoyalas-vstrecha-s-prezidentom-mok-kirsti-koventri--29-07-2025"
+            },
+            {
+                "title": "МОК представил медали зимней Олимпиады 2026 года в Италии",
+                "description": "Соревнования охватят 195 дисциплин, что делает Игры в Италии одними из самых масштабных в истории зимней Олимпиады.",
+                "img": "https://media.sports.uz/thumbnails/68779a8c833ed_220x160.jpg",
+                "link": "https://sports.uz/news/view/mok-predstavil-medali-zimney-olimpiady-2026-goda-v-italii-16-07-2025"
+            },
+            {
+                "title": "Президент Шавкат Мирзиёев ознакомился с предложениями по подготовке к Олимпийским и Паралимпийским играм",
+                "description": "Президент Шавкат Мирзиёев 1 июля ознакомился с предложениями по подготовке к Олимпийским и Паралимпийским играм.",
+                "img": "https://media.sports.uz/thumbnails/6864d7ad33031_220x160.jpg",
+                "link": "https://sports.uz/news/view/prezident-shavkat-mirziyoev-oznakomilsya-s-predlojeniyami-po-podgotovke-k-olimpiyskim-i-paralimpiyskim-igram-02-07-2025"
+            },
+            {
+                "title": "В Ташкенте на высоком уровне отмечен Международный Олимпийский день",
+                "description": "В нашей стране ежегодно с большим размахом празднуется Международный Олимпийский день и в этом году он также прошёл в торжественной атмосфере.",
+                "img": "https://media.sports.uz/thumbnails/6857dfa598f47_220x160.jpg",
+                "link": "https://sports.uz/news/view/v-tashkente-na-vysokom-urovne-otmechen-mejdunarodnyy-olimpiyskiy-den-22-06-2025"
+            },
+            {
+                "title": "Новость дня: Чигирев и Гейниш выступят на Олимпиаде",
+                "description": "Отличные новости для узбекского спорта! Фигуристы Дмитрий Чигирев и Екатерина Гейниш завоевали лицензию на зимние Олимпийские игры Милан-Кортина-2026!",
+                "img": "https://media.sports.uz/thumbnails/67e6a48ec81ee_220x160.jpg",
+                "link": "https://sports.uz/news/view/novost-dnya-chigirev-i-geynish-vystupyat-na-olimpiade--28-03-2025"
+            },
+            {
+                "title": "Важные решения 144-й Сессии МОК",
+                "description": "В Греции завершилась 144-я Сессия Международного Олимпийского комитета (МОК), на которой были приняты ключевые решения:",
+                "img": "https://media.sports.uz/thumbnails/67def81d0c9d2_220x160.jpg",
+                "link": "https://sports.uz/news/view/vajnye-resheniya-144-y-sessii-mok-22-03-2025"
+            },
+            {
+                "title": "Кирсти Ковентри - новый Президент Международного Олимпийского комитета",
+                "description": "Таким образом, впервые в истории МОК возглавит женщина.",
+                "img": "https://media.sports.uz/thumbnails/67dd08d01b1df_220x160.jpg",
+                "link": "https://sports.uz/news/view/kirsti-koventri---novyy-prezident-mejdunarodnogo-olimpiyskogo-komiteta-21-03-2025"
+            },
+            {
+                "title": "В Греции начала свою работу 144-Сессия МОК",
+                "description": "На мероприятии будет избран новый президент МОК, а также принято окончательное решение о включении бокса в программу летних Олимпийских игр Лос-Анджелес-2028.",
+                "img": "https://media.sports.uz/thumbnails/67d97b13530bf_220x160.jpg",
+                "link": "https://sports.uz/news/view/v-gretsii-nachala-svoyu-rabotu-144-sessiya-mok-18-03-2025"
+            }
         ]
     },
     {
-        "name": "Прочие",
-        "link": "http://sports.uz/ru/news/others",
+        "category": "Прочие",
+        "link": "https://sports.uz/ru/news/others",
         "articles": [
-            "Прочие",
-            "http://sports.uz/ru/news/others"
+            {
+                "title": "Сегодня состоится церемония открытия VI Игр Исламской солидарности.",
+                "description": "Торжественная церемония открытия начнётся в 22:00 по ташкентскому времени.",
+                "img": "https://media.sports.uz/thumbnails/690df6a266383_220x160.jpg",
+                "link": "https://sports.uz/news/view/segodnya-sostoitsya-tseremoniya-otkrytiya-vi-igr-islamskoy-solidarnosti-07-11-2025"
+            },
+            {
+                "title": "Шаббона Абдувалиева примет участие в турнире Большого шлема",
+                "description": "Член сборной Узбекистана Шаббона Абдувалиева успешно выступила на турнире по таэквондо WT «Wuxi 2025 World Taekwondo Grand Slam Challenge» в Китае.",
+                "img": "https://media.sports.uz/thumbnails/690cd9cb3aa56_220x160.jpg",
+                "link": "https://sports.uz/news/view/shabbona-abduvalieva-primet-uchastie-v-turnire-bolshogo-shlema-06-11-2025"
+            },
+            {
+                "title": "Наши парадзюдоисты примут участие в чемпионате Азии",
+                "description": "С 7 по 10 ноября в Астане (Казахстан) пройдет чемпионат Азии по парадзюдо среди взрослых.",
+                "img": "https://media.sports.uz/thumbnails/690cd1b7a611c_220x160.jpg",
+                "link": "https://sports.uz/news/view/"
+            },
+            {
+                "title": "Прошло заседание коллегии Министерства спорта",
+                "description": "Сегодня состоялось внеочередное заседание коллегии Министерства спорта.",
+                "img": "https://media.sports.uz/thumbnails/690c9085ee98c_220x160.jpg",
+                "link": "https://sports.uz/news/view/proshlo-zasedanie-kollegii-ministerstva-sporta-06-11-2025"
+            },
+            {
+                "title": "Рияд-2025: Сегодня состоятся соревнования по боксу и футзалу",
+                "description": "В столице Саудовской Аравии продолжаются отборочные соревнования VI Игр Исламской солидарности.",
+                "img": "https://media.sports.uz/thumbnails/690c4e49cf836_220x160.jpg",
+                "link": "https://sports.uz/news/view/riyad-2025-segodnya-sostoyatsya-sorevnovaniya-po-boksu-i-futzalu-06-11-2025"
+            },
+            {
+                "title": "Современные пятиборцы Узбекистана завоевали две золотые медали на ЧА",
+                "description": "В городе Алматы (Казахстан) прошёл чемпионат Азии по современному пятиборью среди молодёжи.",
+                "img": "https://media.sports.uz/thumbnails/690b8965a2de8_220x160.jpg",
+                "link": "https://sports.uz/news/view/sovremennye-pyatibortsy-uzbekistana-zavoevali-dve-zolotye-medali-na-cha--05-11-2025"
+            },
+            {
+                "title": "Известен состав сборной Узбекистана по самбо на ЧМ",
+                "description": "7-9 ноября в Бишкеке пройдет чемпионат мира по самбо среди взрослых.",
+                "img": "https://media.sports.uz/thumbnails/690b86b034a8c_220x160.jpg",
+                "link": "https://sports.uz/news/view/izvesten-sostav-sbornoy-uzbekistana-po-sambo-na-chm-05-11-2025"
+            },
+            {
+                "title": "Награждены призёры чемпионата Узбекистана по спортивной борьбе",
+                "description": "В первый день чемпионата Узбекистана по греко-римской борьбе определились победители и призёры.",
+                "img": "https://media.sports.uz/thumbnails/690a4c97374f5_220x160.jpg",
+                "link": "https://sports.uz/news/view/nagrajdeny-prizyory-chempionata-uzbekistana-po-sportivnoy-borbe-04-11-2025"
+            },
+            {
+                "title": "В Олимпийском городке стартовал чемпионат Узбекистана по греко-римской борьбе",
+                "description": "В Олимпийском городке столицы начался чемпионат Узбекистана по греко-римской борьбе среди взрослых.",
+                "img": "https://media.sports.uz/thumbnails/6909af9ed093a_220x160.jpg",
+                "link": "https://sports.uz/news/view/v-olimpiyskom-gorodke-startoval-chempionat-uzbekistana-po-greko-rimskoy-borbe-04-11-2025"
+            },
+            {
+                "title": "Рияд-2025: Наши соотечественники начинают своё участие",
+                "description": "Сегодня делегация Узбекистана приступает к выступлению на Играх Исламской солидарности Рияд-2025.",
+                "img": "https://media.sports.uz/thumbnails/6909af38457b0_220x160.jpg",
+                "link": "https://sports.uz/news/view/riyad-2025-nashi-sootechestvenniki-nachinayut-svoyo-uchastie-04-11-2025"
+            }
         ]
     },
     {
-        "name": "\nТРИБУНА\n\n\n",
-        "link": "http://sports.uz/ru/news/tribuna",
+        "category": "ТРИБУНА",
+        "link": "https://sports.uz/ru/news/tribuna",
         "articles": [
-            "\nТРИБУНА\n\n\n",
-            "http://sports.uz/ru/news/tribuna"
+            {
+                "title": "Завершились матчи по блицу на чемпионате Азии. Многие наши шахматисты улучшили свои рейтинговые показатели (Подробности)",
+                "description": "В ОАЭ проходит чемпионат Азии по шахматам",
+                "img": "https://media.sports.uz/thumbnails/682081269419f_220x160.jpg",
+                "link": "https://sports.uz/news/view/zavershilis-matchi-po-blitsu-na-chempionate-azii-mnogie-nashi-shaxmatisty-uluchshili-svoi-reytingovye-pokazateli-(podrobnosti)-11-05-2025"
+            },
+            {
+                "title": "Ещё одна эпоха в противостоянии узбекско-казахского бокса подошла к концу. Камшыбек, спасибо тебе за прекрасный бокс и конкуренцию!",
+                "description": "Стали свидетелями бескомпромиссных боёв между ними.",
+                "img": "https://media.sports.uz/thumbnails/678fcd4a36d8c_220x160.jpg",
+                "link": "https://sports.uz/news/view/eщyo-odna-epoxa-v-protivostoyanii-uzbeksko-kazaxskogo-boksa-podoshla-k-kontsu-kamshybek--spasibo-tebe-za-prekrasnyy-boks-i-konkurentsiyu--21-01-2025"
+            },
+            {
+                "title": "Женская сборная Узбекистана по футзалу открывает сезон-2025.",
+                "description": "ФИФА выводит женский футзал на мировой уровень!",
+                "img": "https://media.sports.uz/thumbnails/1_220x160.jpg",
+                "link": "https://sports.uz/news/view/jenskaya-sbornaya-uzbekistana-po-futzalu-otkryvaet-sezon-2025-02-01-2025"
+            },
+            {
+                "title": "ФИФА утвердила формат женского ЧМ-2027 в Бразилии.",
+                "description": "В финальном турнире ЧМ-W выступят 32 команды.",
+                "img": "https://sports.uz/img/placeholder.png",
+                "link": "https://sports.uz/news/view/fifa-utverdila-format-jenskogo-chm-2027-v-brazilii-11-12-2024"
+            },
+            {
+                "title": "Удивительные метаморфозы в конце XXXIII Чемпионата Узбекистана: итоги Суперлиги 2024.",
+                "description": "Размышления о призёрах и аутсайдерах.",
+                "img": "https://media.sports.uz/thumbnails/2019_220x160.jpg",
+                "link": "https://sports.uz/news/view/udivitelnye-metamorfozy-v-kontse-xxxiii-chempionata-uzbekistana-itogi-superligi-2024-01-12-2024"
+            },
+            {
+                "title": "Подведение итогов женского чемпионата-2024: статистика по клубам.",
+                "description": "Цифры, игроки, клубы...",
+                "img": "https://media.sports.uz/thumbnails/_220x160.jpg",
+                "link": "https://sports.uz/news/view/podvedenie-itogov-jenskogo-chempionata-2024-statistika-po-klubam-28-11-2024"
+            },
+            {
+                "title": "\"Бунёдкор-2\" стал победителем первенства во второй лиге!",
+                "description": "Меньше крупных побед, но надёжная игра обороны.",
+                "img": "https://media.sports.uz/thumbnails/24_220x160.jpg",
+                "link": "https://sports.uz/news/view/bunyodkor-2-stal-pobeditelem-pervenstva-vo-vtoroy-lige-21-11-2024"
+            },
+            {
+                "title": "Календарь женской высшей лиги до конца чемпионата.",
+                "description": "Осталось четыре тура.",
+                "img": "https://media.sports.uz/thumbnails/3_220x160.jpg",
+                "link": "https://sports.uz/news/view/kalendar-jenskoy-vysshey-ligi-do-kontsa-chempionata-02-11-2024"
+            },
+            {
+                "title": "«Japan Open 2024». Подробности турнира, в котором принимают участие два молодых шахматиста из Узбекистана",
+                "description": "Международный турнир продолжится в Японии",
+                "img": "https://sports.uz/img/placeholder.png",
+                "link": "https://sports.uz/news/view/japan-open-2024-podrobnosti-turnira--v-kotorom-prinimayut-uchastie-dva-molodyx-shaxmatista-iz-uzbekistana-02-11-2024"
+            },
+            {
+                "title": "Финальная часть первенства Узбекистана среди девушек U-17.",
+                "description": "Стадион \"Чигатай\" принимает восемь финалистов.",
+                "img": "https://media.sports.uz/thumbnails/u-17_220x160.jpg",
+                "link": "https://sports.uz/news/view/finalnaya-chast-pervenstva-uzbekistana-sredi-devushek-u-17-30-10-2024"
+            }
         ]
     }
 ]
